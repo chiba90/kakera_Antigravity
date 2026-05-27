@@ -1,0 +1,62 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "なぜ室町時代の民家が現代に残るのか1000年の血脈を継ぐ箱木千年家の奇跡と当主の覚悟",
+      "description": "民家として全国で初めて国宝に指定される兵庫県の『箱木千年家（箱木家住宅）』と『旧古井家住宅』。室町時代（14世紀）から700年以上の時を耐え抜いた日本最古の木造民家が宿す極限の構造美と、呑吐ダム水没危機を越えさせた人々の執念、94歳の51代当主が血脈に刻む守る覚悟のドラマを深く紐解きます。",
+      "url": "https://kakera.inc/curation/1785/",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kakera.inc/curation/1785/"
+      },
+      "image": "https://kakera.inc/wp-content/uploads/hakogike_national_treasure/01_eyecatch_hakogike.png",
+      "datePublished": "2026-05-24T10:00:00+09:00",
+      "dateModified": "2026-05-24T10:00:00+09:00",
+      "author": {
+        "@type": "Person",
+        "name": "千葉 博文",
+        "url": "https://kakera.inc/about/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Kakera",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kakera.inc/wp-content/themes/kakera/images/logo.png"
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "民家として全国で初めて国宝に指定される箱木千年家（箱木家住宅）とはどのような建物ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "箱木家住宅は兵庫県神戸市北区にある室町時代前期（14世紀）に建てられた、現存する日本最古の木造民家です。2026年5月22日に国の文化審議会により、姫路市の旧古井家住宅と共に、民家として日本で初めて国宝に指定するよう文部科学大臣に答申されました。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "なぜ室町時代の民家が現代までこれほど良好な状態で奇跡的に残されたのですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "木造の接合部を無理なノコギリの製材ではなく、木の繊維を壊さない「割肌」や「ちょうな仕上げ」で加工した室町時代の優れた職人技により、700年耐えうる驚異的な物理強度が維持されました。また、囲炉裏の煙が屋根裏の茅を燻し続け、湿気や害虫から建物を守るという暮らしの営みそのものが完璧なメンテナンスシステムとして機能していました。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "箱木千年家を襲った水没の危機と、移築のドラマについて教えてください。",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "1970年代の「呑吐（どんと）ダム」建設計画に伴い、箱木千年家はダム湖底へ沈む重大な危機に直面しました。しかし、歴史遺産を遺そうとする地域住民と専門家たちの「執念」によって、1977年から解体・調査され、元の場所から数十メートル上の高台へとそっくり移築されました。この解体調査時に、主屋が14世紀まで遡る「日本最古の民家」であることが科学的に完全証明されました。"
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>

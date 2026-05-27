@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kakera.inc/heritage/256/"
+  },
+  "headline": "アロハシャツとは 歴史と起源から紐解く日系移民の逆転劇",
+  "description": "アロハシャツの起源と歴史について。ハワイの日系移民が過酷なサトウキビ農園で生き抜くため、和装を解体しパラカのツイル構造と融合させた「逆転の哲学」。抜染技術や京都からの絹織物輸出が生んだ最高級ヴィンテージの系譜を紐解きます。",
+  "image": "https://kakera.inc/wp-content/uploads/2026/04/01_eyecatch_aloha_origin.png",  
+  "author": {
+    "@type": "Organization",
+    "name": "Kakera",
+    "url": "https://kakera.inc/"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kakera",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kakera.inc/wp-content/uploads/2026/04/kakera_logo.png"
+    }
+  },
+  "datePublished": "2026-04-28",
+  "dateModified": "2026-04-28"
+}

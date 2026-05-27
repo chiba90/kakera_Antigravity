@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kakera.inc/curation/oroku_gushi_succession/"
+  },
+  "headline": "お六櫛の極細の歯が解きほぐす髪の美と木曽の職人による継承の理",
+  "description": "過酷な木曽の山岳で育まれた強靭な木「みねばり」と、一インチに四十本という極細の歯を挽き出す職人のミクロの手技。本稿では、伝統工芸「お六櫛」の精緻な技法、お六伝説、自作の道具、そして東京から移住した新米職人の葛藤を通じて、コントロールを手放す東洋の哲理を紐解きます。",
+  "image": "https://kakera.inc/wp-content/uploads/oroku_gushi_succession/01_eyecatch_oroku_gushi.png",
+  "author": {
+    "@type": "Organization",
+    "name": "Kakera JOURNAL"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kakera",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kakera.inc/logo.png"
+    }
+  },
+  "datePublished": "2026-05-20",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "「お六櫛（おろくぐし）」の名前の由来となった伝説とは何ですか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "江戸・元禄年間に激しい頭痛に悩まされていた「お六」という娘が、御嶽山の神託に従ってみねばりの木で極細の歯の櫛を作り、毎日髪を梳いたところ頭痛が全快したという伝説に由来します。これが中山道を旅する人々の間で「頭痛を癒す不思議な櫛」として評判になり、全国に広まりました。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "お六櫛の素材である「みねばり（オノオレカンバ）」にはどのような特徴がありますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ミネバリは「斧が折れるほど硬い」ことからオノオレカンバとも呼ばれ、厳しい寒さと烈風の木曽の高地で1年にコンマ数ミリという極めて遅い速度で育ちます。そのため、水に沈むほどの圧倒的な比重と超高密度な木肌を持ち、極細の歯を挽き出しても折れない耐久性を誇ります。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "伝統的なお六櫛を長持ちさせるための日常のメンテナンス方法を教えてください。",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "お六櫛は天然木で椿油が染み込んでいるため「水洗いは絶対厳禁」です。汚れやホコリは乾いた豚毛ブラシ等で優しくかき出し、半年に一度ほど椿油を数滴染み込ませた布で拭き上げて油分を再浸透させてお手入れします。親子三代にわたり使い繋ぐことができます。"
+      }
+    }
+  ]
+}

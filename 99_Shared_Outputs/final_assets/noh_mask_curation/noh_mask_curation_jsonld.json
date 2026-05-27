@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsArticle",
+      "@id": "https://kakera.inc/curation/1795/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://kakera.inc/curation/1795/",
+        "url": "https://kakera.inc/curation/1795/",
+        "name": "能面が宿す重要文化財の生命を蘇生する東博能という生きた循環の哲学"
+      },
+      "headline": "能面が宿す重要文化財の生命を蘇生する東博能という生きた循環の哲学",
+      "description": "東京国立博物館に収蔵された加賀前田家伝来の重要文化財の能面が、宝生流の能舞台で本来の「道具」として蘇生する「東博能2026」。美術品の動的還流が伝統に与えるインパクト、檜を削る面打ち職人の極限の身体感覚、そして1,000年先を見据えたパトロンシップの哲学を紐解きます。",
+      "image": [
+        "https://kakera.inc/wp-content/uploads/dx_noh_mask/01_eyecatch_noh_mask.png",
+        "https://kakera.inc/wp-content/uploads/dx_noh_mask/02_h2_museum_return.png",
+        "https://kakera.inc/wp-content/uploads/dx_noh_mask/03_h2_vital_circulation.png",
+        "https://kakera.inc/wp-content/uploads/dx_noh_mask/04_h2_first_cut.png",
+        "https://kakera.inc/wp-content/uploads/dx_noh_mask/05_h2_mask_carving.png",
+        "https://kakera.inc/wp-content/uploads/dx_noh_mask/06_h2_patron_spirit.png",
+        "https://kakera.inc/wp-content/uploads/dx_noh_mask/07_h2_maeda_heritage.png"
+      ],
+      "datePublished": "2026-05-26T09:00:00+09:00",
+      "dateModified": "2026-05-26T09:00:00+09:00",
+      "author": {
+        "@type": "Person",
+        "name": "千葉比呂貴",
+        "url": "https://kakera.inc/about/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "株式会社Kakera",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kakera.inc/logo.png"
+        }
+      },
+      "mainEntityOfPage": "https://kakera.inc/curation/1795/"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kakera.inc/curation/1795/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "「東博能2026」において重要文化財の能面を舞台で使用する意義とリスクは何ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "重要文化財を無菌のガラスケースから取り出し、演者の呼吸や汗を吸い込む舞台という「生きた循環（還流）」に戻すことで、美術品として静止していたものに本来の「芸能の道具」としての生命を吹き込みます。急激な湿度変化や皮脂による彩色の剥落といった物理的リスクは伴いますが、高度な修復技術と厳重な管理体制のもとで動的に保存・還流させることこそが、伝統を現在進行形の生命活動として1,000年先に遺すための道標となります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "能面特有の「中間表情」とはどのようなものですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "喜怒哀楽の特定の感情に偏らない造形を指します。演者が能面を上に向けることで眉間や頬に光が均一に当たり喜びを表現する「照らす」、下に向けることで目元や口元に深い影が落ち悲哀を表現する「曇らす」、左右に振ることで光が動的に変化し感情の揺らぎを表す「使う」など、単純な身体運動と物理的・光学的変化により、木肌から無数の立体的な情緒を立ち上げる極限の彫刻技術です。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "加賀前田家が能楽を庇護した歴史的・政治的背景は何ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "加賀藩前田家が莫大な財力を投じて能面や装束を収集し、職人たちを庇護した背景には、徳川幕府から百万石の軍事力に対する「謀反の疑い」をかけられるのを避けるための冷徹な政治的生存戦略がありました。あえて軍備ではなく「能楽や茶の湯などの文化振興」にエネルギーを集中させ、政治的野心が無いことを証明するパフォーマンスを徹底し、同時に一族の命と伝統を守るための「精神の盾」として機能させました。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://kakera.inc/curation/1795/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://kakera.inc/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kakera JOURNAL",
+          "item": "https://kakera.inc/curation/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "能面が宿す重要文化財の生命を蘇生する東博能という生きた循環の哲学",
+          "item": "https://kakera.inc/curation/1795/"
+        }
+      ]
+    }
+  ]
+}

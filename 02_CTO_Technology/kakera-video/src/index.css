@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Yu Gothic", "YuGothic", serif;
+  --color-kakera-bg: #0A0A0A;
+  --color-kakera-text: #FAFAFA;
+}
+
+@layer base {
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-kakera-bg);
+    color: var(--color-kakera-text);
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kakera.inc/curation/yamanaka-washi-giant-koinobori/"
+  },
+  "headline": "山中和紙が生み出す極寒の美学 飛騨の里を泳ぐ9.5メートルの巨大こいのぼり",
+  "image": [
+    "https://kakera.inc/wp-content/uploads/01_eyecatch_yamanaka_washi.png"
+  ],
+  "datePublished": "2026-04-27T00:00:00+09:00",
+  "dateModified": "2026-04-27T00:00:00+09:00",
+  "author": {
+    "@type": "Organization",
+    "name": "Kakera Inc.",
+    "url": "https://kakera.inc/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kakera Inc.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kakera.inc/wp-content/uploads/kakera_logo.png"
+    }
+  },
+  "description": "飛騨高山の厳冬の中で受け継がれる伝統工芸「山中和紙」。飛騨の里の空を泳ぐ全長9.5メートルの巨大こいのぼりを支える圧倒的な張力と、雪晒しによる自然の力学、そして効率化の果てに失われた思考体力の哲学を紐解くメガコンテンツ。",
+  "keywords": "山中和紙, 飛騨の里, 巨大こいのぼり, 雪晒し, 伝統工芸, 用の美, ラグジュアリー, 飛騨市河合町"
+}

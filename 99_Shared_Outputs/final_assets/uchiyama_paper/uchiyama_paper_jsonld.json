@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsArticle",
+      "@id": "https://kakera.inc/curation/uchiyama-paper/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://kakera.inc/curation/uchiyama-paper/",
+        "url": "https://kakera.inc/curation/uchiyama-paper/",
+        "name": "内山紙の純白を育む雪晒しの神秘と16年ぶりの伝統工芸士誕生"
+      },
+      "headline": "内山紙の純白を育む雪晒しの神秘と16年ぶりの伝統工芸士誕生",
+      "description": "豪雪の地である奥信濃で三百年以上にわたり受け継がれた手漉き和紙、内山紙。雪が融ける瞬間に放つ微細な酸素（オゾン）の力で漂白する伝統技法「雪晒し」の神秘と、産地で16年ぶりに誕生した2名の若き伝統工芸士の歩み、そして現代における「用の美」としての価値を紐解きます。",
+      "image": [
+        "https://kakera.inc/wp-content/uploads/dx_uchiyama_paper/01_eyecatch_uchiyama_snow.png",
+        "https://kakera.inc/wp-content/uploads/dx_uchiyama_paper/02_h2_snow_bleach_process.png",
+        "https://kakera.inc/wp-content/uploads/dx_uchiyama_paper/03_h2_uchiyama_history.png",
+        "https://kakera.inc/wp-content/uploads/dx_uchiyama_paper/04_h2_artisan_hand_movement.png",
+        "https://kakera.inc/wp-content/uploads/dx_uchiyama_paper/05_h2_modern_space_washi.png"
+      ],
+      "datePublished": "2026-05-20T21:00:00+09:00",
+      "dateModified": "2026-05-20T21:00:00+09:00",
+      "author": {
+        "@type": "Person",
+        "name": "千葉比呂貴",
+        "url": "https://kakera.inc/about/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "株式会社Kakera",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kakera.inc/logo.png"
+        }
+      },
+      "mainEntityOfPage": "https://kakera.inc/curation/uchiyama-paper/"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kakera.inc/curation/uchiyama-paper/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "内山紙の「雪晒し」とはどのような漂白技法ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "雪晒しは、冬の太陽と積もった雪の化学反応を利用する天然の漂白システムです。雪が融解する際、太陽の紫外線と反応して微量のオゾンや活性酸素が発生します。この天然の酸化作用によって繊維の色素（リグニンなど）を穏やかに分解・漂白します。化学薬品を一切使用しないため、植物繊維が傷つかず、強靭でいつまでも白い和紙が仕上がります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "内山紙が16年ぶりに伝統工芸士を認定した背景は何ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "2026年2月、長野県飯山市の平田真澄さんと木島平村の上埜暁子さんが新たに内山紙の伝統工芸士に認定されました。伝統工芸士の認定試験は、12年以上の実務経験に加え、手の感覚だけで数ミリグラムの繊維誤差を均す極めて高度な手漉き技術が求められるため、合格者を出すのが非常に困難でした。今回の16年ぶりの快挙は、産地の技術継承にとって大きな灯火となっています。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "化学漂白された洋紙と、雪晒しによる内山紙の違いは何ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "化学漂白された洋紙は、塩素などの強力な薬品で一瞬にしてパルプを漂白するため、繊維が傷つき強度が低下し、時間とともに酸化して劣化・黄変します。一方、雪晒しを用いた内山紙は、繊維を傷つけずにゆっくりと色素を吸い出すため、長い楮繊維の分子鎖が完璧な状態で保存されます。これにより、日焼けしにくく、水に濡れても破れない驚異的な耐久性と、経年により白さが増す特質を持ちます。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://kakera.inc/curation/uchiyama-paper/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://kakera.inc/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kakera JOURNAL",
+          "item": "https://kakera.inc/curation/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "内山紙の純白を育む雪晒しの神秘と16年ぶりの伝統工芸士誕生",
+          "item": "https://kakera.inc/curation/uchiyama-paper/"
+        }
+      ]
+    }
+  ]
+}

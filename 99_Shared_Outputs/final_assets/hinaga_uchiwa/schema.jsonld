@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kakera.inc/curation/hinaga-uchiwa-bamboo-splitting/"
+  },
+  "headline": "「裂く」摩擦から生まれる「丸み」の涼。日永うちわが体現する、一本のコンテキストを通す組織の力学",
+  "image": [
+    "https://kakera.inc/wp-content/uploads/01_eyecatch_hinaga_uchiwa.png"
+  ],
+  "datePublished": "2026-05-27T00:00:00+09:00",
+  "dateModified": "2026-05-27T00:00:00+09:00",
+  "author": {
+    "@type": "Organization",
+    "name": "Kakera Inc.",
+    "url": "https://kakera.inc/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kakera Inc.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kakera.inc/wp-content/uploads/kakera_logo.png"
+    }
+  },
+  "description": "三重県四日市市の伝統工芸「日永うちわ」。一本の丸竹をそのまま活かし、細かく引き裂いて骨を作る「丸柄」の極限手仕事。分業化した組織を一本の理念的コンテキストで繋ぎ、しなやかに難局をいなす経営と組織論へのブリッジを紐解くメガコンテンツ。",
+  "keywords": "日永うちわ, 四日市市, 伝統工芸, 丸柄, 泗水十貨店, 用の美, 組織論, コンテキスト, ラグジュアリー"
+}
