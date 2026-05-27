@@ -366,3 +366,9 @@
   **Date:** 2026-05-27 (Source)
   **Curated:** 2026-05-27 (Current)
 
+- **Title:** 斑鳩文化財センター 春季企画展「斑鳩の動物大集合」
+  **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1CTE5oRnlpMmR4QmlOLWNsRGdIa0xyYlVFVmZSeXk0Vi1HT1ZBandjTDBSQmJVUEJxaFNSUlYzMVZkZEplOGQ2REFUZk1JNWlVR0VkTG1ZQWEybGp1eTNpVWp2RkpNM0Z1dHJ6d3BZbDlFY2FJYWpmNm9raW1wcW8?oc=5
+  **Date:** 2026-05-27 (Source)
+  **Curated:** 2026-05-27 (Current)
+
+

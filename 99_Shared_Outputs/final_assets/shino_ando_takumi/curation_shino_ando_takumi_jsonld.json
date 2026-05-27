@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsArticle",
+      "@id": "https://kakera.inc/curation/1775/#article",
+      "isPartOf": {
+        "@type": "WebPage",
+        "@id": "https://kakera.inc/curation/1775/",
+        "url": "https://kakera.inc/curation/1775/",
+        "name": "なぜ安藤工の志野焼は人々を魅了するのか 白の精神と技法"
+      },
+      "headline": "なぜ安藤工の志野焼は人々を魅了するのか 白の精神と技法",
+      "description": "美濃焼の源流を受け継ぎ、多治見市の無形文化財「志野」の保持者に認定された陶芸家・安藤工氏。その作陶に潜む、もぐさ土と長石釉、穴窯の炎との泥臭い対話、乳白色が切り拓く精神的余白としての白の精神世界、ガラスの悲鳴が刻む貫入の美意識、そして400年の血脈と職人の執念を解き明かします。",
+      "image": [
+        "https://kakera.inc/wp-content/uploads/final_assets/shino_ando_takumi/01_eyecatch_takumi_shino.png",
+        "https://kakera.inc/wp-content/uploads/final_assets/shino_ando_takumi/02_h2_ando_takumi_soil_fire.png",
+        "https://kakera.inc/wp-content/uploads/final_assets/shino_ando_takumi/03_h2_ando_takumi_shino_white.png",
+        "https://kakera.inc/wp-content/uploads/final_assets/shino_ando_takumi/04_h2_ando_takumi_shino_kannyu.png",
+        "https://kakera.inc/wp-content/uploads/final_assets/shino_ando_takumi/05_h2_ando_takumi_sentarogama_history.png",
+        "https://kakera.inc/wp-content/uploads/final_assets/shino_ando_takumi/06_h2_ando_takumi_artisan_spirit.png",
+        "https://kakera.inc/wp-content/uploads/final_assets/shino_ando_takumi/07_h2_ando_takumi_shino_lifestyle.png",
+        "https://kakera.inc/wp-content/uploads/final_assets/shino_ando_takumi/08_h2_ando_takumi_future_legacy.png"
+      ],
+      "datePublished": "2026-05-25T11:00:00+09:00",
+      "dateModified": "2026-05-25T11:00:00+09:00",
+      "author": {
+        "@type": "Person",
+        "name": "千葉博文",
+        "url": "https://kakera.inc/about/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "株式会社Kakera",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kakera.inc/logo.png"
+        }
+      },
+      "mainEntityOfPage": "https://kakera.inc/curation/1775/"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kakera.inc/curation/1775/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "安藤工氏の志野焼における「白」の精神世界とはどのようなものですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "志野焼の白は無機質で周囲を拒絶する白ではなく、あらゆる色彩を包み込む「包容の白」です。長石釉が穴窯の炎でガラス化し、微細な気泡を無数に内包して光を乱反射させることで、新雪のような温かい空気感と光の奥行き（知覚の広がり）を生み出し、周囲の空間に広大な精神的余白を切り開きます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "志野焼の表面に走る「貫入（かんにゅう）」とはどのような現象ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "貫入は、焼成後に窯の中で冷却される過程で、陶土と釉薬の収縮比率の差によって生み出される微細なガラスの亀裂模様です。お茶を点て使い込むことで亀裂にお茶の渋みが染み渡る「茶馴れ」などの経年変化を引き起こし、器を使い手の手元で一生をかけて「育てる」という、不完全性を受容する寛容の美学を具現化します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "多治見市市之倉の「仙太郎窯」と安藤工氏の継承について教えてください。",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "仙太郎窯は400年以上の歴史を誇る美濃焼の伝統を継ぐ窯元です。四代目の安藤工氏は、失われかけた桃山志野を復興させた人間国宝・荒川豊蔵氏の偉大な足跡を越えるべく、守破離の精神で過去の型をインストールしながら、現代アートとしての志野彩文を開拓し、市の無形文化財保持者に認定されました。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://kakera.inc/curation/1775/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://kakera.inc/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kakera JOURNAL",
+          "item": "https://kakera.inc/curation/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "なぜ安藤工の志野焼は人々を魅了するのか 白の精神と技法",
+          "item": "https://kakera.inc/curation/1775/"
+        }
+      ]
+    }
+  ]
+}
