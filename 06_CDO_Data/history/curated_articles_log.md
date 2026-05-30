@@ -371,4 +371,22 @@
   **Date:** 2026-05-27 (Source)
   **Curated:** 2026-05-27 (Current)
 
+- **Title:** 8段階の藍色 沖縄の伝統技法の織物に最高賞、西部伝統工芸展が開幕 [福岡県]
+  **URL:** https://www.asahi.com/articles/ASS5W1RGZ5WTRDZO003.html
+  **Date:** 2026-05-27 (Source)
+  **Curated:** 2026-05-27 (Current)
 
+- **Title:** 世界的な酒類コンペティション「ISC 2026」にて「京都ウイスキー西陣織ラベル シェリーカスク」が金賞受賞
+  **URL:** https://prtimes.jp/main/html/rd/p/000000026.000064316.html
+  **Date:** 2026-05-27 (Source)
+  **Curated:** 2026-05-28 (Current)
+
+- Title: 「ロックマンエグゼ」と伝統工芸の江戸切子が融合。ロックマン/ブルースをデザインしたグラスがそれぞれ150個限定で受注開始
+- URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RVEVEckVGUWdrbzFPQkxTM2JIUll6VU9ieDBJdkg4NFBmVEdIei1RdHNDaXZqeDJYQzZJZXZCVG02QUJRUUg4Rkl4U3VEWjNTZnI2Z0hMQWdDbXdxS2FQR2JiVQ?oc=5
+- Original Date: 2026-05-28
+- Curated Date: 2026-05-28 (Current)
+
+- Title: 進化する熊本の伝統工芸 新しい「肥後象がん」の世界
+- URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE0weGYzQmE2SUp3VTNlRW9nblBJNXVJajlUNjJWRHRXRHpHY2FxT2hDcDNZOHppMGFxdmhjcnh3ZW1mTjFhbENvM3hxQQ?oc=5
+- Original Date: 2026-05-28
+- Curated Date: 2026-05-30 (Current)

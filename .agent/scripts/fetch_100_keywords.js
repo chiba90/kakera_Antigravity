@@ -1,7 +1,7 @@
 const https = require('https');
 
 const userSeed = process.argv[2];
-const seeds = userSeed ? [userSeed] : ["春日大社 鹿", "細見美術館", "九州国立博物館", "金銅", "金工", "御正体", "室町時代 美術", "鋳造", "エイジング 経年変化", "仏教美術"];
+const seeds = userSeed ? [userSeed] : ["京都ウイスキー 西陣織", "京都ウイスキー", "西陣織ラベル", "京都みやこ蒸溜所", "西陣織", "ウイスキー 金賞", "伝統工芸 ラベル", "京都ウイスキー シェリーカスク", "西陣織 ウイスキー"];
 const maxKeywords = 100;
 
 function fetchSuggest(query) {

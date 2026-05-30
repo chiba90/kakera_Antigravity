@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kakera.inc/curation/kyoto_whiskey/"
+  },
+  "headline": "ISC金賞受賞 京都ウイスキー西陣織ラベルの評判と魅力を紐解く",
+  "image": [
+    "https://kakera.inc/wp-content/uploads/final_assets/kyoto_whiskey/01_eyecatch_kyoto_whiskey_nishijin.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/kyoto_whiskey/02_h2_kyoto_whiskey_isc_gold.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/kyoto_whiskey/03_h2_kyoto_whiskey_nishijin_craftsmanship.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/kyoto_whiskey/04_h2_kyoto_whiskey_three_obi_labels.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/kyoto_whiskey/05_h2_kyoto_whiskey_kyotamba_distillery.png"
+  ],
+  "datePublished": "2026-05-28T08:30:00+09:00",
+  "dateModified": "2026-05-28T08:30:00+09:00",
+  "author": {
+    "@type": "Person",
+    "name": "千葉博文",
+    "url": "https://kakera.inc/author/h_chiba/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kakera",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kakera.inc/wp-content/uploads/logo.png"
+    }
+  },
+  "description": "世界の酒類コンペティションの頂点である「ISC 2026」にて金賞を受賞した「京都ウイスキー西陣織ラベル シェリーカスク」の味わいの秘密と、ボトルに込められた伝統工芸の圧倒的な美的価値、職人の執念を深く紐解く。"
+}

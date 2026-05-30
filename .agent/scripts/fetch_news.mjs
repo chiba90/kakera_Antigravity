@@ -70,7 +70,7 @@ async function fetchAllNews() {
   const bunkaUrl = 'https://news.google.com/rss/search?q=%E6%96%87%E5%8C%96%E5%BA%81+OR+%E6%96%87%E5%8C%96%E8%B2%A1&hl=ja&gl=JP&ceid=JP:ja';
   try {
     const bunkaXml = await getRequest(bunkaUrl);
-    const bunkaNews = parseGoogleNewsRSS(bunkaXml, "文化庁・文化財", 3);
+    const bunkaNews = parseGoogleNewsRSS(bunkaXml, "文化庁・文化財", 15);
     console.log("【公的機関・文化庁関連ニュース】");
     bunkaNews.forEach(item => {
         console.log(`Title: ${item.title}\nURL: ${item.url}\nDate: ${item.date}\nSource: ${item.source}\n`);
@@ -83,7 +83,7 @@ async function fetchAllNews() {
   const dentoUrl = 'https://news.google.com/rss/search?q=%E4%BC%9D%E7%B5%B1%E5%B7%A5%E8%8A%B8+-PRTIMES&hl=ja&gl=JP&ceid=JP:ja';
   try {
     const dentoXml = await getRequest(dentoUrl);
-    const dentoNews = parseGoogleNewsRSS(dentoXml, "一般報道", 3);
+    const dentoNews = parseGoogleNewsRSS(dentoXml, "一般報道", 15);
     console.log("【ジャーナリズム・一般報道ニュース】");
     dentoNews.forEach(item => {
         console.log(`Title: ${item.title}\nURL: ${item.url}\nDate: ${item.date}\nSource: ${item.source}\n`);
@@ -96,7 +96,7 @@ async function fetchAllNews() {
   const prUrl = 'https://prtimes.jp/main/action.php?run=html&page=searchkey&search_word=%E4%BC%9D%E7%B5%B1%E5%B7%A5%E8%8A%B8&search_pref=&search_period=all';
   try {
     const prHtml = await getRequest(prUrl);
-    const prNews = parsePRTimes(prHtml, 2);
+    const prNews = parsePRTimes(prHtml, 10);
     console.log("【企業動向・展示会 (PR TIMES)】");
     prNews.forEach(item => {
         console.log(`Title: ${item.title}\nURL: ${item.url}\nDate: ${item.date}\nSource: ${item.source}\n`);

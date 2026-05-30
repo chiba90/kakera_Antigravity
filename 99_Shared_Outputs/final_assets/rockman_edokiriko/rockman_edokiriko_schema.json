@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kakera.inc/curation/rockman-edokiriko/"
+  },
+  "headline": "ロックマンと江戸切子が紡ぐ限定グラスのカッティング美と伝統工芸コラボの未来",
+  "image": [
+    "https://kakera.inc/wp-content/uploads/final_assets/rockman_edokiriko/01_eyecatch_rockman_edokiriko.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/rockman_edokiriko/02_h2_digital_grid.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/rockman_edokiriko/03_h2_craftsmanship.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/rockman_edokiriko/04_h2_sustainability.png"
+  ],
+  "datePublished": "2026-05-28T19:40:00+09:00",
+  "dateModified": "2026-05-28T19:40:00+09:00",
+  "author": {
+    "@type": "Person",
+    "name": "千葉博文",
+    "url": "https://kakera.inc/author/hirofumi-chiba/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kakera",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kakera.inc/wp-content/uploads/logo.png"
+    }
+  },
+  "description": "伝統工芸「江戸切子」と「ロックマンエグゼ」のコラボ限定グラスが本日発表。切子職人が魂を削り出すカッティング美と、キャラクターの記号論、そして伝統工芸と現代IPの共鳴がもたらす未来の美学について論じます。"
+}

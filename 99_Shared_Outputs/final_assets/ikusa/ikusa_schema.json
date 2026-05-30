@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kakera.inc/curation/ikusa/"
+  },
+  "headline": "国産い草ラグで夏のフローリングを快適に。イケヒコが岩田屋天神で提案する和モダンの畳暮らし",
+  "description": "創業140年のい草老舗イケヒコ・コーポレーションが、福岡・天神の岩田屋本店 新館にて開催する期間限定催事。希少な国産い草ラグやモダンな置き畳が、フローリングのベタつきを消し去り、夏の暮らしに美しい「余白」を出現させます。その機能性とデザイン、お手入れ方法を徹底解説。",
+  "image": [
+    "https://kakera.inc/wp-content/uploads/final_assets/ikusa/01_eyecatch.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/ikusa/02_h2_humidity.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/ikusa/03_h2_quality.png"
+  ],
+  "datePublished": "2026-05-30T20:55:00+09:00",
+  "dateModified": "2026-05-30T20:55:00+09:00",
+  "author": {
+    "@type": "Organization",
+    "name": "Kakera JOURNAL 編集部",
+    "url": "https://kakera.inc/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kakera",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kakera.inc/wp-content/uploads/logo.png"
+    }
+  }
+}

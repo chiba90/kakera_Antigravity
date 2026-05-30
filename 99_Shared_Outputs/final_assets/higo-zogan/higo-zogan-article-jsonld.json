@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kakera.inc/curation/1846/"
+  },
+  "headline": "熊本の伝統工芸である肥後象嵌の美しさと現代に調和するアクセサリーの魅力",
+  "image": [
+    "https://kakera.inc/wp-content/uploads/final_assets/higo-zogan/01_eyecatch_higo-zogan.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/higo-zogan/02_h2_jewelry_higo-zogan.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/higo-zogan/03_h2_history_higo-zogan.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/higo-zogan/04_h2_technique_higo-zogan.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/higo-zogan/05_h2_craftsmen_higo-zogan.png",
+    "https://kakera.inc/wp-content/uploads/final_assets/higo-zogan/06_h2_experience_higo-zogan.png"
+  ],
+  "datePublished": "2026-05-30T21:40:00+09:00",
+  "dateModified": "2026-05-30T21:40:00+09:00",
+  "author": {
+    "@type": "Organization",
+    "name": "Kakera",
+    "url": "https://kakera.inc/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kakera",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kakera.inc/wp-content/uploads/logo.png"
+    }
+  },
+  "description": "漆黒の鉄地に純金と純銀の静謐な輝き。かつて武士の誇りと覚悟を証明した熊本の伝統工芸「肥後象嵌」が、現代の日常を飾る洗練されたアクセサリーとしてどのように還流したのか、その非効率な美学と職人の泥臭い葛藤に迫ります。"
+}
